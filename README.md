@@ -70,6 +70,35 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 #### 2016
 
 ####Março
+
 - Desenvolvendo um plugin para o Xcode
 	- [Marcelo Fabri](https://github.com/marcelofabri)
 	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvendo-um-plugin-para-o-xcode)
+
+####Abril
+
+####Maio
+
+####Junho
+
+####Julho
+
+####Agosto
+
+####Setembro
+
+- Implementando SiriKit 
+	- [André Vieira](https://github.com/)
+	- [Slides](http://www.slideshare.net/)
+
+- Testing is dead, long live testing! - Property-based testing with SwiftCheck
+	- [André Miranda](https://github.com/EuAndreh)
+	- [Slides / Projeto](https://gist.github.com/EuAndreh/d9f81eeb91f1645573ff229a27a1c714)
+
+- Geofire e conceitos de geolocalização
+	- [Renato Matos](https://github.com)
+	- [Slides](http://www.slideshare.net/)
+	
+####Outubro
+
+
