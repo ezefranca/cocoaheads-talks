@@ -15,7 +15,7 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 ##Chapters
 - [Belo Horizonte](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#belo-horizonte)
 - [Campinas](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#campinas)
-- [São Paulo](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#sao-paulo)
+- [São Paulo](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#são-paulo)
 
 	
 ###Belo Horizonte
